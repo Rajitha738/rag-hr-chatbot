@@ -18,13 +18,20 @@ It uses **Sentence Transformers** to embed policy text and retrieves relevant an
 
 rag-hr-chatbot/
 │── backend/ # FastAPI app
+
 │ ├── app.py # API endpoints
+
 │ ├── utils.py # PDF + text processing
+
 │ ├── retriever.py # FAISS index + retrieval
+
 │ ├── cache.py # Simple cache layer
+
 │ └── init.py
+
 │
 │── frontend/ # Streamlit app
+
 │ └── streamlit_app.py
 │
 │── data/ # HR-Policy.pdf 
