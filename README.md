@@ -35,7 +35,12 @@ rag-hr-chatbot/
 │ └── streamlit_app.py
 │
 │── data/ # HR-Policy.pdf 
+
 │── requirements.txt
+
 │── Dockerfile
+
 │── README.md
+
 │── .gitignore
+
