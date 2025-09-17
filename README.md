@@ -29,11 +29,13 @@ rag-hr-chatbot/
 │ ├── cache.py # Simple cache layer
 
 │ └── init.py
-│
+
+
 │── frontend/ # Streamlit app
 
 │ └── streamlit_app.py
-│
+
+
 │── data/ # HR-Policy.pdf 
 
 │── requirements.txt
