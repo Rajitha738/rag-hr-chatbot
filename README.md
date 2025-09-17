@@ -1,6 +1,7 @@
 # RAG HR Chatbot
 
-An **HR Policy Chatbot** built with **FastAPI**, **Streamlit**, and **FAISS** that lets employees query company HR policies from a PDF document.  
+An **HR Policy Chatbot** built with **FastAPI**, **Streamlit**, and **FAISS** that lets employees query company HR policies from a PDF document. 
+
 It uses **Sentence Transformers** to embed policy text and retrieves relevant answers using **Retrieval-Augmented Generation (RAG)**.
 
 ---
@@ -45,4 +46,3 @@ rag-hr-chatbot/
 │── README.md
 
 │── .gitignore
-
