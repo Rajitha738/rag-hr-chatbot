@@ -17,6 +17,7 @@ It uses **Sentence Transformers** to embed policy text and retrieves relevant an
 ## Project Structure
 
 rag-hr-chatbot/
+
 │── backend/ # FastAPI app
 
 │ ├── app.py # API endpoints
@@ -29,11 +30,14 @@ rag-hr-chatbot/
 
 │ └── init.py
 
+
 │
 │── frontend/ # Streamlit app
 
 │ └── streamlit_app.py
 │
+
+
 │── data/ # HR-Policy.pdf 
 
 │── requirements.txt
